@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<!-- {% translate_file _news/2022_12_15.md %} -->
+{% translate_file _news/2022_12_15.md %}
