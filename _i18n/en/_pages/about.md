@@ -1,5 +1,9 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a Ph.D. student at the <a href="http://www.physics.mcgill.ca/">McGill Physics Department</a> and <a href="https://msi.mcgill.ca/">Trottier Space Institute</a>. I work on the modeling of thermonuclear bursts on accreting compact objects, under the supervision of <a href="http://www.physics.mcgill.ca/~cumming/">Prof. Andrew Cumming</a>. My research combines aspects of nuclear astrophysics, fluid dynamics and computational physics. Before this, I completed an engineering physics degree at <a href="https://www.polymtl.ca/phys/en/">Polytechnique Montréal</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+This semester (Winter 2023), I will be working at <a href="https://www.stonybrook.edu/">Stony Brook University</a> with <a href="https://zingale.github.io/">Prof. Michael Zingale</a> on multidimensional simulations of thermonuclear bursts using the <a href="https://amrex-astro.github.io/MAESTROeX/">MAESTROeX code</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of my research work, I have been involved in the outreach efforts of the department. In 2021, I was the coordinator for <a href="https://msi.mcgill.ca/index.php?page=about-astromcgill">AstroMcGill</a>, a student-led group that organizes free public events for the promotion of science.
+
+Otherwise, I enjoy playing <a href="https://www.chess.com/member/sguichandut">chess</a> and biking around Montréal.
+
+The best way to reach me is by email at <a href="mailto:simon.guichandut@mcgill.ca">simon.guichandut@mail.mcgill.ca</a>.

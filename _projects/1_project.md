@@ -2,9 +2,9 @@
 layout: page
 title: projects.titles.project1
 description: projects.descriptions.project1
-img: assets/img/12.jpg
+img: /assets/img/thesis_diagram.png
 importance: 1
 category: work
 ---
 
-{% translate_file _projects/1_project.md %}
+{% translate_file _projects/winds.md %}
