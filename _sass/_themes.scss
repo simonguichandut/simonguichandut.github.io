@@ -7,8 +7,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-theme-color: #{$cyan-color};
+  --global-hover-color: #{$cyan-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -23,6 +23,14 @@
     padding-left: 10px;
     padding-top: 12px;
     display : block;
+  }
+
+  .fa-angle-right {
+    display : block
+  }
+
+  .fa-angle-left {
+    display : block
   }
 
   .repo-img-light {
@@ -54,6 +62,14 @@ html[data-theme='dark'] {
   }
   .fa-moon {
     display : none;
+  }
+
+  .fa-angle-right {
+    display : block
+  }
+
+  .fa-angle-left {
+    display : block
   }
 
   .repo-img-light {
