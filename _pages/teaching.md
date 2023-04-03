@@ -7,6 +7,9 @@ nav: false
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+List of courses for which I have TA'ed:
+* PHYS642 - Radiative Processes in Astrophysics
+* PHYS251 - Honours Classical Mechancis
+* PHYS142 - Electromagnetism & Optics
+* PHYS131 - Mechanics and Waves
 
-Organize your courses by years, topics, or universities, however you like!
