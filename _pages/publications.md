@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.publications
-description: descriptions.publications
+description: 
 permalink: /publications/
 years: [2023,2021,2020]
 nav: true
