@@ -24,6 +24,7 @@ titles:
   teaching: enseignement
   submenus: sous-menus
   unk: page non-trouvée
+  xrb: Sursauts rayons-X
 descriptions:
   about: à propos de moi
   archive-category: an archive of posts in this category
@@ -32,9 +33,10 @@ descriptions:
   blog: blogging
   publications: Publications en ordre chronologique inversé. Géréré par jekyll-scholar.
   projects: Ce sur quoi je travaille
-  repositories: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+  repositories: Mon profil GitHub
   teaching: Materials for courses you taught. Replace this text with your description.
   unk: Looks like there has been a mistake. Nothing exists here.
+  xrb: Introduction aux explosions les plus fréquentes dans le ciel rayons-X
 blog:
   description: a simple whitespace theme for academics
   name: al-folio blog in english # blog_name will be displayed in your blog page
