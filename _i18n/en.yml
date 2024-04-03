@@ -92,4 +92,7 @@ xrb:
     intro: Introduction to the most common explosions in the X-ray sky
     ch1: x
     ch2: x
+maestroex_xrb_layered:
+  title: MAESTROeX X-ray burst paper
+  description: Supplementary materials
 
