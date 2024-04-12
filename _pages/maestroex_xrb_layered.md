@@ -7,19 +7,15 @@ nav: false
 nav_order: 
 ---
 
-<!--
 <div align="center">
-<iframe width="999" height="904" src="assets/mp4/maestroex_xrb_panels.mp4" frameborder="0" allowfullscreen></iframe>
-</div>
--->
-
 <video width="480" height="320" controls="controls">
-  <source src="assets/mp4/maestroex_xrb_panels.mp4" type="video/mp4">
+  <source src="assets/mp4/maestroex_xrb/panels.mp4" type="video/mp4">
 </video>
+</div>
 
-
-<!--
-<video width="3996" height="3616" controls>
-  <source src="assets/mp4/maestroex_xrb_panels.mp4">
+<div align="center">
+<video width="480" height="320" controls="controls">
+  <source src="assets/mp4/maestroex_xrb/comp.mp4" type="video/mp4">
 </video>
--->
+</div>
+
