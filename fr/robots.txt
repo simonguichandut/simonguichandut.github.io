@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://simonguichandut.github.io/fr/sitemap.xml
+Sitemap: https://simonguichandut.github.io/sitemap.xml
