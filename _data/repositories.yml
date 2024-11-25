@@ -1,5 +1,8 @@
 github_users:
   - simonguichandut
+  
+repo_description_lines_max: 2
 
 github_repos:
   - simonguichandut/GR-FLD-PRE
+

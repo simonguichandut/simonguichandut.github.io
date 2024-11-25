@@ -2,20 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Simon Guichandut
-    - name: Email
-      value: simonguichandut@gmail.com
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English, French
-    - name: Summary
-      value: I'm a PhD student studying explosions on neutron stars, using theoretical models and computer simulations. I enjoy translating math into code, and making beautiful data visualizations.
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: McGill University, Montreal, Canada
-      year: Ongoing
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.

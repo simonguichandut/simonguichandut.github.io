@@ -1,0 +1,142 @@
+archive_category: une archive des publications dans cette catégorie
+archive_tag: une archive des publications avec ce tag
+archive_year: une archive des publications de cette année
+blog:
+  navigation_title: blog
+categories:
+  fun: fun
+  work: travail
+citation:
+  bibtex: "ou en entrée BibTex:"
+  introduction: "Si vous l'avez trouvé utile, veuillez citer comme:"
+contact_note: 
+cv:
+  address: Adresse
+  area: Endroit
+  awarder: Émetteur
+  awards: Prix
+  basics: Information générale
+  certificates: Certificats
+  city: Ville
+  countryCode: Code de pays
+  courses: Cours
+  date: Date
+  education: Éducation
+  email: Courriel
+  endDate: Date de fin
+  fluency: Fluence
+  highlights: Moments forts
+  image: Image
+  institution: Institution
+  interests: Intérêts
+  issuer: Émetteur
+  keywords: Mots clés
+  label: Étiquette
+  language: Langage
+  languages: Langues
+  level: Niveau
+  location: Location
+  name: Nom
+  network: Réseau
+  organization: Organisation
+  phone: Téléphone
+  position: Position
+  postalCode: Code Postal
+  profiles: Profiles
+  projects: Projets
+  publications: Publications
+  publisher: Éditeur
+  reference: Référence
+  references: Références
+  region: Région
+  releaseDate: Date de sortie
+  score: Score
+  skills: Habiletés
+  startDate: Date de début
+  studyType: Type d'étude
+  summary: Résumé
+  table_of_contents: Table des matières
+  title: Titre
+  url: Url
+  username: Nom d'utilisateur
+  volunteer: Bénévole
+  work: Travail
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+latest_posts: Publications récentes
+months:
+  long:
+    january: Janvier
+    february: Février
+    march: Mars
+    april: Avril
+    may: Mai
+    june: Juin
+    july: Juillet
+    august: Août
+    september: Septembre
+    october: Octobre
+    november: Novembre
+    december: Décembre
+  short:
+    january: Jan
+    february: Fév
+    march: Mar
+    april: Avr
+    may: Mai
+    june: Jun
+    july: Jul
+    august: Aoû
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Déc
+news: nouvelles
+newsletter:
+  back: Précédent
+  error: "Oops! Il y a eu une erreur, veuillez réessayer"
+  subscribe: 
+  subscribed:
+  subscribe_to_receive:
+  too_many_signups:
+  wait: "Attendez svp"
+no_news:
+pagination:
+  newer: Récents
+  older: Anciens
+  page: página
+post:
+  created_in: Créé en
+  created_by: pour
+  last_updated: mis à jour en
+references: Références
+related_posts:
+  description:
+  title:
+search:
+  dark_theme:
+    description: Mode sombre
+    title: Mode sombre
+  dropdown:
+  email: Envoyer un courriel
+  footer:
+    close: pour fermer
+    navigate: pour naviguer
+    parent:
+    select: pour sélectionner
+  languages: Langues
+  light_theme:
+    description: Mode clair
+    title: Mode clair
+  navigation: Menu de navigation
+  news: Nouvelles
+  placeholder:
+  posts: Posts
+  projects: Projets
+  socials: Sociaux
+  system_theme:
+    description:
+    title:
+  theme: Thème
+selected_publications: publications sélectionnées
+site_description:
