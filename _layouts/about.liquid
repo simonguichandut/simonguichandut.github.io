@@ -7,6 +7,9 @@ layout: default
       {% if site.title == 'blank' %}
         {{ site.first_name }} {{ site.middle_name }}
         <span class="font-weight-bold"> {{ site.last_name }} </span>
+        {% if site.active_lang == site.default_lang %}
+          {% include scripts/pronunciation_button.html %}
+        {% endif %}
       {% else %}
         {{ site.title }}
       {% endif %}
