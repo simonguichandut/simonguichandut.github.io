@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<style>
+.research-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#button-container button {
+  font-size: 1.2em; /* Increase font size */
+  background: none; /* No box */
+  border: none;
+  color: inherit; /* Inherit color from site theme */
+  margin: 0 10px; /* Add some margin between buttons */
+  cursor: pointer;
+  padding: 10px 20px;
+  transition: color 0.3s;
+  text-decoration: underline; /* Add underline */
+}
+
+#button-container button:hover,
+#button-container button.active {
+  color: var(--global-theme-color); /* Change color on click */
+}
+
+#layman-summary, #technical-summary {
+  text-align: left; /* Align text to the left */
+  width: 100%; /* Ensure full width */
+  max-width: 800px; /* Optional: limit the max width */
+  margin: 0 auto; /* Center the container */
+}
+</style>
+
+<div class="research-page">
+  <h1>{{ page.title }}</h1>
+
+  <div id="button-container">
+    <button id="layman-btn">{{ site.data.strings.research.layman_summary }}</button>
+    <button id="technical-btn">{{ site.data.strings.research.technical_summary }}</button>
+  </div>
+
+  <div id="layman-summary" style="display:none;">
+    {% capture layman_summary %}
+    {{ content | split: '<!-- layman-summary-end -->' | first | split: '<!-- layman-summary-start -->' | last | markdownify }}
+    {% endcapture %}
+    {{ layman_summary }}
+  </div>
+
+  <div id="technical-summary" style="display:none;">
+    {% capture technical_summary %}
+    {{ content | split: '<!-- technical-summary-end -->' | first | split: '<!-- technical-summary-start -->' | last | markdownify }}
+    {% endcapture %}
+    {{ technical_summary }}
+  </div>
+</div>
+
+<script>
+document.getElementById('layman-btn').addEventListener('click', function() {
+  document.getElementById('layman-summary').style.display = 'block';
+  document.getElementById('technical-summary').style.display = 'none';
+  this.classList.add('active');
+  document.getElementById('technical-btn').classList.remove('active');
+});
+
+document.getElementById('technical-btn').addEventListener('click', function() {
+  document.getElementById('layman-summary').style.display = 'none';
+  document.getElementById('technical-summary').style.display = 'block';
+  this.classList.add('active');
+  document.getElementById('layman-btn').classList.remove('active');
+});
+</script>

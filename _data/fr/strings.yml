@@ -140,3 +140,6 @@ search:
   theme: Thème
 selected_publications: publications sélectionnées
 site_description:
+research:
+  layman_summary: Résumé pour les profanes
+  technical_summary: Résumé technique

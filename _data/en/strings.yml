@@ -140,3 +140,6 @@ search:
   theme: Theme
 selected_publications: selected publications
 site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+research:
+  layman_summary: Layman's Summary
+  technical_summary: Technical Summary
