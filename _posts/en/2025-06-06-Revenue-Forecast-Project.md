@@ -229,7 +229,7 @@ Finally, we evaluate the model's performance on the test set (data from 2016 onw
 
 When building a portfolio based on revenue forecast, we want to know **how well our model performs for different companies**. There is a risk associated with the model performance. For a minimum risk portofolio, we may opt to only select companies in which the ML model performs well.
 
-In fact, there is a lot of variance in the performance of the model when grouping by companies. I show the distribution of MAPE errors in [Figure 4](#fig4). We see that there are in fact many companies with much lower MAPE than the overall result. For example, these id's have MAPE's less than 5\%: 93 , 95 , 694, 876, 879, 1177 , 1273 , 1595 , 1648 , 1682 , 1865. There are also a few outliers for which the model does not work at all! We probably would not want to include these in our portoflio.
+In fact, there is a lot of variance in the performance of the model when grouping by companies. I show the distribution of MAPE errors in [Figure 4](#fig4). We see that there are in fact many companies with much lower MAPE than the overall result. For example, these id's have MAPE's less than 5%: 93 , 95 , 694, 876, 879, 1177 , 1273 , 1595 , 1648 , 1682 , 1865. There are also a few outliers for which the model does not work at all! We probably would not want to include these in our portoflio.
 
 <div style="text-align: center;">
     <figure id="fig4">

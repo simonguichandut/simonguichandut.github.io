@@ -3,7 +3,7 @@ page_id: research
 layout: research
 title: Research
 permalink: /research/
-nav: false
+nav: true
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ Since the 1960s, we have been staring at the night sky with space telescopes tha
 <!-- layman-summary-end -->
 
 <!-- technical-summary-start -->
-Here is a technical summary of my research...
+My research focuses primarily on Type I X-ray bursts
 # c
 # d
 <!-- technical-summary-end -->
